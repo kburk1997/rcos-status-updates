@@ -5,18 +5,16 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
+I did a preliminary accessibility audit on yacs-core and yacs-admin and found multiple critical accessibility issues.
+
+Link to new issues: []()
+
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+I will continue the accessibility audit by manually testing each web page with a screen reader.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+I have deadlines for capstone and sd&d approaching, and some pages were impossible to test automatically.
+er categories.
